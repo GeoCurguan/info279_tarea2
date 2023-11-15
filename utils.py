@@ -15,14 +15,14 @@ places = np.array(['Cervecería', 'Parque', 'Plaza', 'Población',
                    'Faro', 'Camino', 'Sendero'])
 
 
-def query(texto: str):
+def query(texto: str, api_key):
     url = 'https://places.googleapis.com/v1/places:searchText'
     data = {
         'textQuery': texto
     }
     headers = {
         'Content-Type': 'application/json',
-        'X-Goog-Api-Key': 'AIzaSyAjbtkLeCtZfQWp5zOyIGwmrBSpCtq9Lps',
+        'X-Goog-Api-Key': api_key,
         'X-Goog-FieldMask': 'places.displayName,places.formattedAddress,places.priceLevel'
     }
     response = requests.post(url, json=data, headers=headers)
