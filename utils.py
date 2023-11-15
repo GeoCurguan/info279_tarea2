@@ -1,7 +1,7 @@
 import numpy as np
 import requests
 
-places = np.array(['Cervecería', 'Parque', 'Plaza', 'Población', 
+places1 = np.array(['Cervecería', 'Parque', 'Plaza', 'Población', 
                    'Villa', 'Pasaje', 'Sector', 'Hospital', 'Escuela', 
                    'Colegio', 'Universidad', 'Cine', 'Puente', 
                    'Avenida', 'Calle', 'Barrio', 'Estación', 'Mercado', 
@@ -14,6 +14,13 @@ places = np.array(['Cervecería', 'Parque', 'Plaza', 'Población',
                    'Acuario', 'Mirador', 'Monumento', 'Torre', 
                    'Faro', 'Camino', 'Sendero'])
 
+places2 = np.array(['Gimnasio', 'Club', 'Pueblo', 'Zona residencial', 'Condominio'
+                    'Hogar', 'Cementerio','Salón de baile', 'Parroquia','Fábrica',
+                    'Laboratorio', 'Estudio', 'Taller','Tienda','Bazar',
+                    'Salón de belleza', 'Spa', 'Mercado nocturno' 'Taller mecánico'
+                    'Granja','Rancho','Viñedo','Bodega','Campo de golf','Cancha de tenis',
+                    'Piscina','Casino','Refugio','Hostal','Edificio histórico'
+                    ,'Planta de energía','Aeródromo','Acantilado'])
 
 def query(texto: str, api_key):
     url = 'https://places.googleapis.com/v1/places:searchText'
