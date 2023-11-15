@@ -1,466 +1,466 @@
 Cervecería Ruta T 350 950, Valdivia, Los Ríos, Chile "La Cerveceria" Kunstmann
-Cervecería Llancahue s/n, 5090000 Valdivia, Los Ríos, Chile Cervecería Calle Calle
-Cervecería 5110196, 5090000 Valdivia, Los Ríos, Chile Bar Terraza Cervecera
-Cervecería C. Nva Uno, 5110121 Valdivia, Los Ríos, Chile Cervecería Los Torreones
-Cervecería Saelzer 41, 5110208 Valdivia, Los Ríos, Chile El Growler
-Cervecería Beauchef 641, 5110603 Valdivia, Los Ríos, Chile Barbudo Growler
-Cervecería Isla Teja - Los Avellanos 289, 5690000 Valdivia, Los Ríos, Chile La Bota Cervecera
-Cervecería Camino El Arenal/Pasaje San Felix Santa Elvira, 5090000 Valdivia, Los Ríos, Chile Cerveza Schenke Brüder
-Cervecería Camino Publico Cutipay Lote 2-7 - Niebla, Valdivia, Los Ríos, Chile Cerveza Twins
-Cervecería Volcán Michimahuida 4669, 5101822 Valdivia, Los Ríos, Chile Cerveza Entre Ríos - Granel, barril, botella. Cervecería Artesanal.
-Cervecería Valdivia, Los Ríos, Chile Cerveceria Bundor
-Cervecería Eugenio Matte 92, 2210561 Valdivia, Los Ríos, Chile Cerveza carva
-Cervecería Martínez de Rozas 3311, 5101177 Valdivia, Los Ríos, Chile Cerveza 3 Puentes
-Cervecería Esmeralda 675, 5110600 Valdivia, Los Ríos, Chile El arbol cervecero
-Cervecería Cochrane 176, 5110690 Valdivia, Los Ríos, Chile Bünemann´s SPELUNKE
-Cervecería Isla del rey, 5090000 Valdivia, Corral, Los Ríos, Chile Cervecería Del castillo
-Cervecería Infanta Elena 3590, Valdivia, Los Ríos, Chile Cervecería Elfo Del Bosque
-Cervecería Isla Guacamayo 2244, 5091780 Valdivia, Los Ríos, Chile Cerveceria Fantasma
-Cervecería Tornagaleones 1128, 5090175 Valdivia, Los Ríos, Chile Cerveza Nebú
-Cervecería Valdivia, Los Ríos, Chile CERVECERA PUNUCAPA LIMITADA
-Parque 7M22+GX, Valdivia, Los Ríos, Chile Valdivia Park
-Parque Los Laureles 222, Valdivia, Los Ríos, Chile Oncol Park
-Parque Parque Saval 1, Valdivia, Los Ríos, Chile Parque Saval
-Parque Los Lingues 601-679, Valdivia, Los Ríos, Chile Santa Inés Park
-Parque Av. Simpson 301, Valdivia, Los Ríos, Chile Parque Urbano El Bosque
-Parque Av. Pedro Montt 779, Valdivia, Los Ríos, Chile Guillermo Harnecker Park
-Parque Valdivia, Los Ríos, Chile Parque Llancahue
-Parque Londres 471, 5090475 Valdivia, Los Ríos, Chile Londres Park
-Parque Errázuriz 1101-1299, Valdivia, Los Ríos, Chile Harnecker Municipal Park
-Parque Unnamed Rd,, Valdivia, Los Ríos, Chile Arboretum UACh
-Parque El Colegual s/n, Punucapa, 5090000 Valdivia, Los Ríos, Chile Insectos Ishiku Lemu Park
-Parque Valdivia, Los Ríos, Chile Parque Anwandter
-Parque O'Higgins, Valdivia, Los Ríos, Chile Republic Plaza
-Parque Rodolfo Beckdorf 1657, 5091507 Valdivia, Los Ríos, Chile Parque Krahmer
-Parque Av. Los Lingues, Interior - Parque Saval, Valdivia, Los Ríos, Chile Laguna de Lotos
+Cervecería Llancahue s/n, 5090000 Valdivia, Los Ríos, Chile Cervecería Calle Calle;
+Cervecería 5110196, 5090000 Valdivia, Los Ríos, Chile Bar Terraza Cervecera;
+Cervecería C. Nva Uno, 5110121 Valdivia, Los Ríos, Chile Cervecería Los Torreones;
+Cervecería Saelzer 41, 5110208 Valdivia, Los Ríos, Chile El Growler;
+Cervecería Beauchef 641, 5110603 Valdivia, Los Ríos, Chile Barbudo Growler;
+Cervecería Isla Teja - Los Avellanos 289, 5690000 Valdivia, Los Ríos, Chile La Bota Cervecera;
+Cervecería Camino El Arenal/Pasaje San Felix Santa Elvira, 5090000 Valdivia, Los Ríos, Chile Cerveza Schenke Brüder;
+Cervecería Camino Publico Cutipay Lote 2-7 - Niebla, Valdivia, Los Ríos, Chile Cerveza Twins;
+Cervecería Volcán Michimahuida 4669, 5101822 Valdivia, Los Ríos, Chile Cerveza Entre Ríos - Granel, barril, botella. Cervecería Artesanal.;
+Cervecería Valdivia, Los Ríos, Chile Cerveceria Bundor;
+Cervecería Eugenio Matte 92, 2210561 Valdivia, Los Ríos, Chile Cerveza carva;
+Cervecería Martínez de Rozas 3311, 5101177 Valdivia, Los Ríos, Chile Cerveza 3 Puentes;
+Cervecería Esmeralda 675, 5110600 Valdivia, Los Ríos, Chile El arbol cervecero;
+Cervecería Cochrane 176, 5110690 Valdivia, Los Ríos, Chile Bünemann´s SPELUNKE;
+Cervecería Isla del rey, 5090000 Valdivia, Corral, Los Ríos, Chile Cervecería Del castillo;
+Cervecería Infanta Elena 3590, Valdivia, Los Ríos, Chile Cervecería Elfo Del Bosque;
+Cervecería Isla Guacamayo 2244, 5091780 Valdivia, Los Ríos, Chile Cerveceria Fantasma;
+Cervecería Tornagaleones 1128, 5090175 Valdivia, Los Ríos, Chile Cerveza Nebú;
+Cervecería Valdivia, Los Ríos, Chile CERVECERA PUNUCAPA LIMITADA;
+Parque 7M22+GX, Valdivia, Los Ríos, Chile Valdivia Park;
+Parque Los Laureles 222, Valdivia, Los Ríos, Chile Oncol Park;
+Parque Parque Saval 1, Valdivia, Los Ríos, Chile Parque Saval;
+Parque Los Lingues 601-679, Valdivia, Los Ríos, Chile Santa Inés Park;
+Parque Av. Simpson 301, Valdivia, Los Ríos, Chile Parque Urbano El Bosque;
+Parque Av. Pedro Montt 779, Valdivia, Los Ríos, Chile Guillermo Harnecker Park;
+Parque Valdivia, Los Ríos, Chile Parque Llancahue;
+Parque Londres 471, 5090475 Valdivia, Los Ríos, Chile Londres Park;
+Parque Errázuriz 1101-1299, Valdivia, Los Ríos, Chile Harnecker Municipal Park;
+Parque Unnamed Rd,, Valdivia, Los Ríos, Chile Arboretum UACh;
+Parque El Colegual s/n, Punucapa, 5090000 Valdivia, Los Ríos, Chile Insectos Ishiku Lemu Park;
+Parque Valdivia, Los Ríos, Chile Parque Anwandter;
+Parque O'Higgins, Valdivia, Los Ríos, Chile Republic Plaza;
+Parque Rodolfo Beckdorf 1657, 5091507 Valdivia, Los Ríos, Chile Parque Krahmer;
+Parque Av. Los Lingues, Interior - Parque Saval, Valdivia, Los Ríos, Chile Laguna de Lotos;
 Parque 5190037 Corral, Los Ríos, Chile valdivia
-Parque 5091249 Valdivia, Los Ríos, Chile Catrico Park
-Parque T-350 600, Niebla, Valdivia, Los Ríos, Chile Vergara Dávila Park
-Parque Valdivia, Los Ríos, Chile Bosque Nativo de Valdivia Park
-Parque Av. Pedro Montt, 5090388 Valdivia, Los Ríos, Chile Bicentenario Park
-Plaza Arauco 561, 5110640 Valdivia, Los Ríos, Chile Plaza de Los Rios
+Parque 5091249 Valdivia, Los Ríos, Chile Catrico Park;
+Parque T-350 600, Niebla, Valdivia, Los Ríos, Chile Vergara Dávila Park;
+Parque Valdivia, Los Ríos, Chile Bosque Nativo de Valdivia Park;
+Parque Av. Pedro Montt, 5090388 Valdivia, Los Ríos, Chile Bicentenario Park;
+Plaza Arauco 561, 5110640 Valdivia, Los Ríos, Chile Plaza de Los Rios;
 Población Valdivia, Los Ríos, Chile Valdivia
-Villa España 1025, 5110067 Valdivia, Los Ríos, Chile Hotel Villa del Río
-Villa Los Maitenes 2, Valdivia, Los Ríos, Chile Turismo Villa del Río
-Villa Av. Circunvalación Nueva Región 1345, 5091834 Valdivia, Los Ríos, Chile Villa Galilea
-Villa Rudloff 2041, 5111071 Valdivia, Los Ríos, Chile Apart Hotel Villa Los Ciruelos
-Villa Pje. E 165, Valdivia, Los Ríos, Chile VILLA CAPREVA
-Villa Los Olivillos 394, 5110255 Valdivia, Los Ríos, Chile Cabañas Villa teja
-Villa Av. Balmaceda 6775, 5090000 Valdivia, Los Ríos, Chile Villa Mirador del Calle Calle
-Villa Beauchef 688, 5110659 Valdivia, Los Ríos, Chile Alojamiento, Bed & Breakfast.
-Villa Los Pumas 570, 5111846 Valdivia, Los Ríos, Chile Villa Altos De Mahuiza 1 pootis
-Villa Coltauco, Valdivia, Los Ríos, Chile FAE PRO VILLA HUIDIF
-Villa Austria 2052, 5090398 Valdivia, Los Ríos, Chile Cabañas Villa Europa Norte
-Villa Caupolicán 234, casa 3, 5110280 Valdivia, Los Ríos, Chile Familias de Acogida Villa Huidif
-Villa Braulio León 5051, 5091430 Valdivia, Los Ríos, Chile Sede Villa 2000
-Villa Unnamed Road, Valdivia, Los Ríos, Chile Villa papelera
-Villa Villa Jericó 6, 5090000 Valdivia, Los Ríos, Chile Hostel Villa Jericó
-Villa Estocolmo 212, 5090269 Valdivia, Los Ríos, Chile Cabañas Villa Freire
+Villa España 1025, 5110067 Valdivia, Los Ríos, Chile Hotel Villa del Río;
+Villa Los Maitenes 2, Valdivia, Los Ríos, Chile Turismo Villa del Río;
+Villa Av. Circunvalación Nueva Región 1345, 5091834 Valdivia, Los Ríos, Chile Villa Galilea;
+Villa Rudloff 2041, 5111071 Valdivia, Los Ríos, Chile Apart Hotel Villa Los Ciruelos;
+Villa Pje. E 165, Valdivia, Los Ríos, Chile VILLA CAPREVA;
+Villa Los Olivillos 394, 5110255 Valdivia, Los Ríos, Chile Cabañas Villa teja;
+Villa Av. Balmaceda 6775, 5090000 Valdivia, Los Ríos, Chile Villa Mirador del Calle Calle;
+Villa Beauchef 688, 5110659 Valdivia, Los Ríos, Chile Alojamiento, Bed & Breakfast.;
+Villa Los Pumas 570, 5111846 Valdivia, Los Ríos, Chile Villa Altos De Mahuiza 1 pootis;
+Villa Coltauco, Valdivia, Los Ríos, Chile FAE PRO VILLA HUIDIF;
+Villa Austria 2052, 5090398 Valdivia, Los Ríos, Chile Cabañas Villa Europa Norte;
+Villa Caupolicán 234, casa 3, 5110280 Valdivia, Los Ríos, Chile Familias de Acogida Villa Huidif;
+Villa Braulio León 5051, 5091430 Valdivia, Los Ríos, Chile Sede Villa 2000;
+Villa Unnamed Road, Valdivia, Los Ríos, Chile Villa papelera;
+Villa Villa Jericó 6, 5090000 Valdivia, Los Ríos, Chile Hostel Villa Jericó;
+Villa Estocolmo 212, 5090269 Valdivia, Los Ríos, Chile Cabañas Villa Freire;
 Villa Caucau, Valdivia, Los Ríos, Chile Caucau
-Villa Caupolicán 243, 5110270 Valdivia, Los Ríos, Chile valdivia
-Villa Av. Balmaceda 6377, Valdivia, Los Ríos, Chile Parque Torreones IV
-Villa Villa las Brisas de la Ribera, comuna de Topacio N° 110, 5110682 Valdivia, Los Ríos, Chile Puertocolonos
+Villa Caupolicán 243, 5110270 Valdivia, Los Ríos, Chile valdivia;
+Villa Av. Balmaceda 6377, Valdivia, Los Ríos, Chile Parque Torreones IV;
+Villa Villa las Brisas de la Ribera, comuna de Topacio N° 110, 5110682 Valdivia, Los Ríos, Chile Puertocolonos;
 Pasaje Valdivia, Los Ríos, Chile Valdivia
-Sector Valdivia, Los Ríos, Chile Valdivia
-Hospital Bueras - Av. Simpson 950, Valdivia, Los Ríos, Chile Base Hospital de Valdivia
-Hospital Tornagaleones 1020, Valdivia, Los Ríos, Chile Banco de sangre - Hospital Base Valdivia
-Hospital Rubén Darío, 5101262 Valdivia, Los Ríos, Chile Hospital Valdivia
-Hospital Los Laureles 95, Valdivia, Los Ríos, Chile Centro de Salud Universitario UACh
-Hospital Beauchef 705, 5110683 Valdivia, Los Ríos, Chile Clínica del Trabajador Valdivia
-Hospital Beauchef 723, 5110683 Valdivia, Los Ríos, Chile Laboratorio Clínico Centro Médico Valdivia
-Escuela Av. Ramón Picarte 679, 5110518 Valdivia, Los Ríos, Chile Escuela 1
-Escuela Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque
-Escuela Av. Ramón Picarte 3198, 5101210 Valdivia, Los Ríos, Chile Centro Educacional Rios de Valdivia
-Escuela Av. Ramón Picarte 3223, 5101318 Valdivia, Los Ríos, Chile The Laurel School
-Escuela Ismael Valdés, 5110442 Valdivia, Los Ríos, Chile Colegio San Lucas Valdivia
-Escuela Cam. A Paillao 19, Angachilla, Valdivia, Los Ríos, Chile Colegio Valle de los Ríos
-Escuela Pedro de Valdivia 480, 5110506 Valdivia, Los Ríos, Chile Instituto Salesiano Valdivia (ISV - Salesianos) - Colegio de Valdivia
-Escuela Av. Argentina 2310, 5100252 Valdivia, Los Ríos, Chile Escuela Fedor Dostoievski
-Escuela Domeyko 310, 5110983 Valdivia, Los Ríos, Chile School E-4 Leónardo Da Vinci
-Escuela Beauchef 975, 5110676 Valdivia, Los Ríos, Chile Escuela España
-Escuela Av. Ramón Picarte 1212, 5090000 Valdivia, Los Ríos, Chile Escuela México
-Escuela Av. Arturo Prat 425, 5090000 Valdivia, Los Ríos, Chile Colegio Alcázar Valdivia
-Escuela Carlos Krahmer 1230-1298, 5090152 Valdivia, Los Ríos, Chile Escuela Ann Sullivan
-Escuela Av. Ramón Picarte 1092, Valdivia, Los Ríos, Chile Colegio María Auxiliadora
-Escuela Gral Lagos, 5110773 Valdivia, Los Ríos, Chile Edificio B Uss Valdivia
-Escuela Calle Camino A Guacamayo 895, Valdivia, Los Ríos, Chile Colegio Los Conquistadores
-Escuela José María Muñoz Hermosilla, 5090272 Valdivia, Los Ríos, Chile Escuela Walter Schmidt
-Escuela Gonzalez Bustamante 1991, 5111000 Valdivia, Los Ríos, Chile Colegio Laico Valdivia
-Escuela Av. Cv Sur 4855, Valdivia, Los Ríos, Chile Colegio English College Los Ríos
-Colegio Av. Ramón Picarte 3198, 5101210 Valdivia, Los Ríos, Chile Centro Educacional Rios de Valdivia
-Colegio Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque
-Colegio Pedro de Valdivia 480, 5110506 Valdivia, Los Ríos, Chile Instituto Salesiano Valdivia (ISV - Salesianos) - Colegio de Valdivia
-Colegio Av. Cv Sur 4855, Valdivia, Los Ríos, Chile Colegio English College Los Ríos
-Colegio Gonzalez Bustamante 1991, 5111000 Valdivia, Los Ríos, Chile Colegio Laico Valdivia
-Colegio Ismael Valdés, 5110442 Valdivia, Los Ríos, Chile Colegio San Lucas Valdivia
-Colegio Av. Ramón Picarte 1092, Valdivia, Los Ríos, Chile Colegio María Auxiliadora
-Colegio Arica 2474, 5111199 Valdivia, Los Ríos, Chile Colegio San Lucas de Valdivia
-Colegio Pje. Acharan Arce N° 389 esquina Avda. Alemania (Altura Avda Alemania N° 793 Frente a la plazuela Valdivia, 5090000 Valdivia, Los Ríos, Chile Colegio Médico Los Ríos
+Sector Valdivia, Los Ríos, Chile Valdivia;
+Hospital Bueras - Av. Simpson 950, Valdivia, Los Ríos, Chile Base Hospital de Valdivia;
+Hospital Tornagaleones 1020, Valdivia, Los Ríos, Chile Banco de sangre - Hospital Base Valdivia;
+Hospital Rubén Darío, 5101262 Valdivia, Los Ríos, Chile Hospital Valdivia;
+Hospital Los Laureles 95, Valdivia, Los Ríos, Chile Centro de Salud Universitario UACh;
+Hospital Beauchef 705, 5110683 Valdivia, Los Ríos, Chile Clínica del Trabajador Valdivia;
+Hospital Beauchef 723, 5110683 Valdivia, Los Ríos, Chile Laboratorio Clínico Centro Médico Valdivia;
+Escuela Av. Ramón Picarte 679, 5110518 Valdivia, Los Ríos, Chile Escuela 1;
+Escuela Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque;
+Escuela Av. Ramón Picarte 3198, 5101210 Valdivia, Los Ríos, Chile Centro Educacional Rios de Valdivia;
+Escuela Av. Ramón Picarte 3223, 5101318 Valdivia, Los Ríos, Chile The Laurel School;
+Escuela Ismael Valdés, 5110442 Valdivia, Los Ríos, Chile Colegio San Lucas Valdivia;
+Escuela Cam. A Paillao 19, Angachilla, Valdivia, Los Ríos, Chile Colegio Valle de los Ríos;
+Escuela Pedro de Valdivia 480, 5110506 Valdivia, Los Ríos, Chile Instituto Salesiano Valdivia (ISV - Salesianos) - Colegio de Valdivia;
+Escuela Av. Argentina 2310, 5100252 Valdivia, Los Ríos, Chile Escuela Fedor Dostoievski;
+Escuela Domeyko 310, 5110983 Valdivia, Los Ríos, Chile School E-4 Leónardo Da Vinci;
+Escuela Beauchef 975, 5110676 Valdivia, Los Ríos, Chile Escuela España;
+Escuela Av. Ramón Picarte 1212, 5090000 Valdivia, Los Ríos, Chile Escuela México;
+Escuela Av. Arturo Prat 425, 5090000 Valdivia, Los Ríos, Chile Colegio Alcázar Valdivia;
+Escuela Carlos Krahmer 1230-1298, 5090152 Valdivia, Los Ríos, Chile Escuela Ann Sullivan;
+Escuela Av. Ramón Picarte 1092, Valdivia, Los Ríos, Chile Colegio María Auxiliadora;
+Escuela Gral Lagos, 5110773 Valdivia, Los Ríos, Chile Edificio B Uss Valdivia;
+Escuela Calle Camino A Guacamayo 895, Valdivia, Los Ríos, Chile Colegio Los Conquistadores;
+Escuela José María Muñoz Hermosilla, 5090272 Valdivia, Los Ríos, Chile Escuela Walter Schmidt;
+Escuela Gonzalez Bustamante 1991, 5111000 Valdivia, Los Ríos, Chile Colegio Laico Valdivia;
+Escuela Av. Cv Sur 4855, Valdivia, Los Ríos, Chile Colegio English College Los Ríos;
+Colegio Av. Ramón Picarte 3198, 5101210 Valdivia, Los Ríos, Chile Centro Educacional Rios de Valdivia;
+Colegio Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque;
+Colegio Pedro de Valdivia 480, 5110506 Valdivia, Los Ríos, Chile Instituto Salesiano Valdivia (ISV - Salesianos) - Colegio de Valdivia;
+Colegio Av. Cv Sur 4855, Valdivia, Los Ríos, Chile Colegio English College Los Ríos;
+Colegio Gonzalez Bustamante 1991, 5111000 Valdivia, Los Ríos, Chile Colegio Laico Valdivia;
+Colegio Ismael Valdés, 5110442 Valdivia, Los Ríos, Chile Colegio San Lucas Valdivia;
+Colegio Av. Ramón Picarte 1092, Valdivia, Los Ríos, Chile Colegio María Auxiliadora;
+Colegio Arica 2474, 5111199 Valdivia, Los Ríos, Chile Colegio San Lucas de Valdivia;
+Colegio Pje. Acharan Arce N° 389 esquina Avda. Alemania (Altura Avda Alemania N° 793 Frente a la plazuela Valdivia, 5090000 Valdivia, Los Ríos, Chile Colegio Médico Los Ríos;
 Colegio Av. Arturo Prat 425, 5090000 Valdivia, Los Ríos, Chile Colegio Alcázar Valdivia
-Colegio Calle Camino A Guacamayo 895, Valdivia, Los Ríos, Chile Colegio Los Conquistadores
-Colegio García Reyes 440, 5110473 Valdivia, Los Ríos, Chile Colegio Los Torreones
-Colegio Guillermo Frick 243, 5110967 Valdivia, Los Ríos, Chile Prince of Asturias College
-Colegio Av. Pedro Montt 2455, 5090152 Valdivia, Los Ríos, Chile Liceo Bicentenario Ciudad de Los Ríos
-Colegio Pérez Rosales 774, 5110615 Valdivia, Los Ríos, Chile Commercial Institute of Valdivia
-Colegio Av. Ramón Picarte 2305, Valdivia, Los Ríos, Chile Technical School Valdivia
-Colegio Gral Lagos 990, 1287729 Valdivia, Los Ríos, Chile Colegio Alonso de Ercilla
-Colegio Arauco 474, 5110504 Valdivia, Los Ríos, Chile Rector Liceo Armando Robles Rivera
-Colegio 5090885 Valdivia, Los Ríos, Chile colegio Laura Vicuña
-Colegio Aníbal Pinto 1148, 5110718 Valdivia, Los Ríos, Chile Colegio Austral
-Universidad Independencia 631, Valdivia, Los Ríos, Chile Universidad Austral de Chile
-Cine Arauco 561, Valdivia, Los Ríos, Chile Cineplanet Valdivia
-Cine Campus Isla Teja - Independencia 641, Valdivia, Los Ríos, Chile Cine Club - Universidad Austral de Chile
-Cine Los Tilos 041, 5110181 Valdivia, Los Ríos, Chile PoseckFilms
-Puente Río Callecalle, Valdivia, Los Ríos, Chile Puente Pedro de Valdivia
-Puente Los Lingues, Valdivia, Los Ríos, Chile Río Cruces Bridge
-Puente Río Callecalle, Valdivia, Los Ríos, Chile Puente Calle-Calle
+Colegio Calle Camino A Guacamayo 895, Valdivia, Los Ríos, Chile Colegio Los Conquistadores;
+Colegio García Reyes 440, 5110473 Valdivia, Los Ríos, Chile Colegio Los Torreones;
+Colegio Guillermo Frick 243, 5110967 Valdivia, Los Ríos, Chile Prince of Asturias College;
+Colegio Av. Pedro Montt 2455, 5090152 Valdivia, Los Ríos, Chile Liceo Bicentenario Ciudad de Los Ríos;
+Colegio Pérez Rosales 774, 5110615 Valdivia, Los Ríos, Chile Commercial Institute of Valdivia;
+Colegio Av. Ramón Picarte 2305, Valdivia, Los Ríos, Chile Technical School Valdivia;
+Colegio Gral Lagos 990, 1287729 Valdivia, Los Ríos, Chile Colegio Alonso de Ercilla;
+Colegio Arauco 474, 5110504 Valdivia, Los Ríos, Chile Rector Liceo Armando Robles Rivera;
+Colegio 5090885 Valdivia, Los Ríos, Chile colegio Laura Vicuña;
+Colegio Aníbal Pinto 1148, 5110718 Valdivia, Los Ríos, Chile Colegio Austral;
+Universidad Independencia 631, Valdivia, Los Ríos, Chile Universidad Austral de Chile;
+Cine Arauco 561, Valdivia, Los Ríos, Chile Cineplanet Valdivia;
+Cine Campus Isla Teja - Independencia 641, Valdivia, Los Ríos, Chile Cine Club - Universidad Austral de Chile;
+Cine Los Tilos 041, 5110181 Valdivia, Los Ríos, Chile PoseckFilms;
+Puente Río Callecalle, Valdivia, Los Ríos, Chile Puente Pedro de Valdivia;
+Puente Los Lingues, Valdivia, Los Ríos, Chile Río Cruces Bridge;
+Puente Río Callecalle, Valdivia, Los Ríos, Chile Puente Calle-Calle;
 Puente Valdivia, Los Ríos, Chile Puente Caucau
-Puente Valdivia, Los Ríos, Chile Puente Santa Elvira
-Avenida Calle-Calle River, Los Ríos, Chile Calle-Calle River
-Calle Calle-Calle River, Los Ríos, Chile Calle-Calle River
+Puente Valdivia, Los Ríos, Chile Puente Santa Elvira;
+Avenida Calle-Calle River, Los Ríos, Chile Calle-Calle River;
+Calle Calle-Calle River, Los Ríos, Chile Calle-Calle River;
 Barrio Valdivia, Los Ríos, Chile Valdivia
-Estación 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles
+Estación 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles;
 Estación Valdivia, Los Ríos, Chile Terminal L11
-Estación Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB
-Estación Valdivia, Los Ríos, Chile Estación metereológica
-Estación Yungay 646, 5110568 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa
+Estación Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB;
+Estación Valdivia, Los Ríos, Chile Estación metereológica;
+Estación Yungay 646, 5110568 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa;
 Estación Valdivia, Los Ríos, Chile Terminal L3
-Estación Manuel Rodríguez 198, 5100755 Valdivia, Los Ríos, Chile La Estación Del Sándwich
-Estación 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia
-Estación Corral, Los Ríos, Chile Estacion de Buses a la Costa
-Estación Valdivia, Los Ríos, Chile Terminal L1, L3
+Estación Manuel Rodríguez 198, 5100755 Valdivia, Los Ríos, Chile La Estación Del Sándwich;
+Estación 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia;
+Estación Corral, Los Ríos, Chile Estacion de Buses a la Costa;
+Estación Valdivia, Los Ríos, Chile Terminal L1, L3;
 Estación Valdivia, Los Ríos, Chile Terminal L1
-Estación 5110424 Valdivia, Los Ríos, Chile Valdivia
+Estación 5110424 Valdivia, Los Ríos, Chile Valdivia;
 Estación Valdivia, Los Ríos, Chile Terminal L9
-Estación San Martín 475, Valdivia, Los Ríos, Chile Clínica Estación Mascotas
-Estación Valdivia, Los Ríos, Chile estacion monitoreo
-Mercado 5110361 Valdivia, Los Ríos, Chile Mercado Municipal de Valdivia
-Mercado Libertad 28, Valdivia, Los Ríos, Chile Feria Fluvial
-Mercado Chacabuco, 5090000 Valdivia, Los Ríos, Chile Mariscos
-Mercado Cochrane 513, 5190000 Valdivia, Los Ríos, Chile Aka mercado
-Mercado Caupolicán 243, 5110270 Valdivia, Los Ríos, Chile Mercado Fluvial
-Biblioteca Av. Ramón Picarte 2102, 5100402 Valdivia, Los Ríos, Chile Fray Camilo Henriquez Public Library, Valdivia
-Biblioteca Isla Teja, Valdivia, Los Ríos, Chile Biblioteca Central UACh
-Biblioteca Bombero Córdoba 5110349, 5110264 Valdivia, Los Ríos, Chile Bazar y Libreria Lourdes
-Biblioteca General Lagos N° 2086, Campus, Miraflores, Valdivia, Los Ríos, Chile Biblioteca Facultad de Ciencias de la Ingeniería, Campus Miraflores, UACh
-Biblioteca Los Pellines, Valdivia, Los Ríos, Chile ECOCRA LOS PELLINES
-Centro comercial Arauco 561, 5110640 Valdivia, Los Ríos, Chile Plaza de Los Rios
-Terminal Terminal, Valdivia, Los Ríos, Chile Terminal
-Jardín Luis Tirado 2601-2799, 5090000 Valdivia, Los Ríos, Chile Jardin Magia De Los Rios
-Jardín Valdivia, Los Ríos, Chile Jardín Infantil Sala Cuna Estrellita De Los Ríos
-Jardín Las Encinas 230, Valdivia, Los Ríos, Chile Jardin Infantil Los Pingüinitos
-Jardín Antofagasta 755, 5111600 Valdivia, Los Ríos, Chile Jardín Infantil y sala cuna Luz de los Ríos
-Jardín Janequeo 480, 5110239 Valdivia, Los Ríos, Chile Jardin Infantil Liliput
-Jardín Sta. Martina, 5091295 Valdivia, Los Ríos, Chile SALA CUNA Y JARDÍN INFANTIL "GOTITAS DE LLUVIA"
-Jardín García Reyes 296, 5110336 Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Mi Sol
-Jardín José María Muñoz Hermosilla 35, 5090238 Valdivia, Los Ríos, Chile Jardin Infantil los Pinguinitos
-Jardín Rubén Darío 201, Valdivia, Los Ríos, Chile Jardin Infantil Sueños de Colores
-Jardín Campus Isla Teja Uach, Valdivia, Los Ríos, Chile Jardín Botánico UACh
-Jardín Av. Simpson 1480, 5090119 Valdivia, Los Ríos, Chile Jardín Infantil Crispín
-Jardín Diputado Hernán Olave Verdugo 607, Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Caracola
-Jardín Aníbal Pinto, 5110974 Valdivia, Los Ríos, Chile Jardin Infantil UACH
-Jardín Av. Ramón Picarte 1654, 5090895 Valdivia, Los Ríos, Chile Río de colores
-Jardín Don Bosco 2701, 5100655 Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Carrusel Junji
-Jardín José María Muñoz Hermosilla, 5090238 Valdivia, Los Ríos, Chile Sala cuna y jardín infantil los avellanos
-Jardín Río Loa, 5100936 Valdivia, Los Ríos, Chile Jardín infantil independencia
-Jardín Av. Ramón Picarte 2399, 5100692 Valdivia, Los Ríos, Chile Cabañas El Jardín Valdivia
-Jardín Regidor Teófilo Silva, 5091776 Valdivia, Los Ríos, Chile Jardín y Sala Cuna Pequeña Misión
-Jardín Los Tuaos 308, 5111520 Valdivia, Los Ríos, Chile Escuela de Párvulos "Duendelín"
-Museo Isla Teja Campus de Los Museos UACh - Los Laureles s/n, 5110290 Valdivia, Los Ríos, Chile Museo de la Exploración Rudolph Amandus Philippi
-Museo Av. Arturo Prat 2-20, Valdivia, Los Ríos, Chile museo naval submarino O' Brien
-Museo Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele
-Museo Vicente Pérez Rosales 708, 5110615 Valdivia, Los Ríos, Chile Museo de las Telecomunicaciones
-Museo Alto, Chancoyan, Valdivia, Los Ríos, Chile Museo Privado
-Museo Av. Costanera Arturo Prat,, Valdivia, Los Ríos, Chile Pendulo de Foucault
-Museo T-350, Valdivia, Los Ríos, Chile Memorial puente Estancilla
-Museo Valdivia, Los Ríos, Chile Museo de la Cerveza Kunstmann
-Museo Los Laureles s/n, Valdivia, Los Ríos, Chile Museo de Arte Contemporáneo de Valdivia
-Museo Niebla, Valdivia, Los Ríos, Chile Museo de Sitio Castillo de Niebla
-Museo Calle - Del Castillo, 5110000 Valdivia, Los Ríos, Chile Museo de Sitio Castillo de Niebla
-Museo Valdivia, Los Ríos, Chile Muelle Schuster - Un Viaje Histórico
-Museo Pérez Rosales 764, 5110615 Valdivia, Los Ríos, Chile Casa de la Memoria de los DD.HH.
-Museo Yungay 733, Valdivia, Los Ríos, Chile Centro Cultural El Austral
-Museo Del Castillo s/n, 5100343 Niebla, Valdivia, Los Ríos, Chile Castillo de la Pura y Limpia Concepción de Monfort de Lemus
-Museo Niebla, Valdivia, Los Ríos, Chile Museo elCastillo
-Museo 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles
-Museo Calle Rubén Darío alt. 500, 5101427 Valdivia, Los Ríos, Chile Memorial La Mano
-Museo Municipal Cemetery, 5100436 Valdivia, Los Ríos, Chile Memorial por la Vida
-Museo Arauco 380, 5110542 Valdivia, Los Ríos, Chile Corporacion Cultural Luterana
-Teatro Chacabuco 210, 5110361 Valdivia, Los Ríos, Chile Teatro Regional Cervantes
-Teatro Independencia 455, Valdivia, Los Ríos, Chile Lord Cochrane Municipal Theater
-Teatro Calle Baquedano - San Luis 1157, 5090000 Valdivia, Los Ríos, Chile Centro Cultural Bailarines de los Ríos
-Teatro Isla Teja - Los Robles 04, Valdivia, Los Ríos, Chile Corporación​ Cultural Municipal De Valdivia
-Teatro España 203, 5110453 Valdivia, Los Ríos, Chile Ases producciones los rios
-Galería Caupolicán 425, 5110437 Valdivia, Los Ríos, Chile Galeria Valdivia
-Galería Arauco 729, 5090000 Valdivia, Los Ríos, Chile kylie style spa
-Galería Chacabuco 412, 5110396 Valdivia, Los Ríos, Chile Galeria Benjamin
-Galería Arauco 384, Valdivia, Los Ríos, Chile Galeria Santiago , Tienda The Nones Local 5
-Galería Caupolicán 443, 5090000 Valdivia, Los Ríos, Chile Galería Cadagan
-Galería Caupolicán 360, 5110395 Valdivia, Los Ríos, Chile Galería Alemania
-Galería 5110542 Valdivia, Los Ríos, Chile Ciber cafe galeria santiago
-Galería Lautaro 149, 5110654 Valdivia, Los Ríos, Chile Galeria Lautaro
-Galería Caupolicán 532, 5110503 Valdivia, Los Ríos, Chile pumucki galeria fuad
-Galería Pérez Rosales 986, Valdivia, Los Ríos, Chile Galeria Barrios Bajos
-Galería Los Pelues 430, 5110523 Valdivia, Los Ríos, Chile Arte Valdivia
-Estadio Alonso de Ercilla, Valdivia, Los Ríos, Chile Estadio Felix Gallardo
-Café Maipú 183-199, Valdivia, Los Ríos, Chile Cafe De Luis
-Café Bernardo O'Higgins 422, 5090000 Valdivia, Los Ríos, Chile Café Bar La Firma
-Café Libertad 174, 5110484 Valdivia, Los Ríos, Chile Café Moro
-Café 5110507 Valdivia, Los Ríos, Chile Café Plaza
-Café O'Higgins 394, 5110361 Valdivia, Los Ríos, Chile Das Haus 1959
-Café Pérez Rosales 644, Valdivia, Los Ríos, Chile Café Cosas Ricas
-Café Pérez Rosales 580, Valdivia, Los Ríos, Chile Café Palace
-Café Arauco 280, 5110538 Valdivia, Los Ríos, Chile Cafe Cotidiano
-Café Camilo Henríquez 266, Valdivia, Los Ríos, Chile Café Simple
-Café Caupolicán 465, local 232, 5110437 Valdivia, Los Ríos, Chile Cassis Valdivia
-Café Pérez Rosales 644, Valdivia, Los Ríos, Chile Cafe Illy Valdivia
+Estación San Martín 475, Valdivia, Los Ríos, Chile Clínica Estación Mascotas;
+Estación Valdivia, Los Ríos, Chile estacion monitoreo;
+Mercado 5110361 Valdivia, Los Ríos, Chile Mercado Municipal de Valdivia;
+Mercado Libertad 28, Valdivia, Los Ríos, Chile Feria Fluvial;
+Mercado Chacabuco, 5090000 Valdivia, Los Ríos, Chile Mariscos;
+Mercado Cochrane 513, 5190000 Valdivia, Los Ríos, Chile Aka mercado;
+Mercado Caupolicán 243, 5110270 Valdivia, Los Ríos, Chile Mercado Fluvial;
+Biblioteca Av. Ramón Picarte 2102, 5100402 Valdivia, Los Ríos, Chile Fray Camilo Henriquez Public Library, Valdivia;
+Biblioteca Isla Teja, Valdivia, Los Ríos, Chile Biblioteca Central UACh;
+Biblioteca Bombero Córdoba 5110349, 5110264 Valdivia, Los Ríos, Chile Bazar y Libreria Lourdes;
+Biblioteca General Lagos N° 2086, Campus, Miraflores, Valdivia, Los Ríos, Chile Biblioteca Facultad de Ciencias de la Ingeniería, Campus Miraflores, UACh;
+Biblioteca Los Pellines, Valdivia, Los Ríos, Chile ECOCRA LOS PELLINES;
+Centro comercial Arauco 561, 5110640 Valdivia, Los Ríos, Chile Plaza de Los Rios;
+Terminal Terminal, Valdivia, Los Ríos, Chile Terminal;
+Jardín Luis Tirado 2601-2799, 5090000 Valdivia, Los Ríos, Chile Jardin Magia De Los Rios;
+Jardín Valdivia, Los Ríos, Chile Jardín Infantil Sala Cuna Estrellita De Los Ríos;
+Jardín Las Encinas 230, Valdivia, Los Ríos, Chile Jardin Infantil Los Pingüinitos;
+Jardín Antofagasta 755, 5111600 Valdivia, Los Ríos, Chile Jardín Infantil y sala cuna Luz de los Ríos;
+Jardín Janequeo 480, 5110239 Valdivia, Los Ríos, Chile Jardin Infantil Liliput;
+Jardín Sta. Martina, 5091295 Valdivia, Los Ríos, Chile SALA CUNA Y JARDÍN INFANTIL "GOTITAS DE LLUVIA";
+Jardín García Reyes 296, 5110336 Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Mi Sol;
+Jardín José María Muñoz Hermosilla 35, 5090238 Valdivia, Los Ríos, Chile Jardin Infantil los Pinguinitos;
+Jardín Rubén Darío 201, Valdivia, Los Ríos, Chile Jardin Infantil Sueños de Colores;
+Jardín Campus Isla Teja Uach, Valdivia, Los Ríos, Chile Jardín Botánico UACh;
+Jardín Av. Simpson 1480, 5090119 Valdivia, Los Ríos, Chile Jardín Infantil Crispín;
+Jardín Diputado Hernán Olave Verdugo 607, Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Caracola;
+Jardín Aníbal Pinto, 5110974 Valdivia, Los Ríos, Chile Jardin Infantil UACH;
+Jardín Av. Ramón Picarte 1654, 5090895 Valdivia, Los Ríos, Chile Río de colores;
+Jardín Don Bosco 2701, 5100655 Valdivia, Los Ríos, Chile Jardín Infantil y Sala Cuna Carrusel Junji;
+Jardín José María Muñoz Hermosilla, 5090238 Valdivia, Los Ríos, Chile Sala cuna y jardín infantil los avellanos;
+Jardín Río Loa, 5100936 Valdivia, Los Ríos, Chile Jardín infantil independencia;
+Jardín Av. Ramón Picarte 2399, 5100692 Valdivia, Los Ríos, Chile Cabañas El Jardín Valdivia;
+Jardín Regidor Teófilo Silva, 5091776 Valdivia, Los Ríos, Chile Jardín y Sala Cuna Pequeña Misión;
+Jardín Los Tuaos 308, 5111520 Valdivia, Los Ríos, Chile Escuela de Párvulos "Duendelín";
+Museo Isla Teja Campus de Los Museos UACh - Los Laureles s/n, 5110290 Valdivia, Los Ríos, Chile Museo de la Exploración Rudolph Amandus Philippi;
+Museo Av. Arturo Prat 2-20, Valdivia, Los Ríos, Chile museo naval submarino O' Brien;
+Museo Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele;
+Museo Vicente Pérez Rosales 708, 5110615 Valdivia, Los Ríos, Chile Museo de las Telecomunicaciones;
+Museo Alto, Chancoyan, Valdivia, Los Ríos, Chile Museo Privado;
+Museo Av. Costanera Arturo Prat,, Valdivia, Los Ríos, Chile Pendulo de Foucault;
+Museo T-350, Valdivia, Los Ríos, Chile Memorial puente Estancilla;
+Museo Valdivia, Los Ríos, Chile Museo de la Cerveza Kunstmann;
+Museo Los Laureles s/n, Valdivia, Los Ríos, Chile Museo de Arte Contemporáneo de Valdivia;
+Museo Niebla, Valdivia, Los Ríos, Chile Museo de Sitio Castillo de Niebla;
+Museo Calle - Del Castillo, 5110000 Valdivia, Los Ríos, Chile Museo de Sitio Castillo de Niebla;
+Museo Valdivia, Los Ríos, Chile Muelle Schuster - Un Viaje Histórico;
+Museo Pérez Rosales 764, 5110615 Valdivia, Los Ríos, Chile Casa de la Memoria de los DD.HH.;
+Museo Yungay 733, Valdivia, Los Ríos, Chile Centro Cultural El Austral;
+Museo Del Castillo s/n, 5100343 Niebla, Valdivia, Los Ríos, Chile Castillo de la Pura y Limpia Concepción de Monfort de Lemus;
+Museo Niebla, Valdivia, Los Ríos, Chile Museo elCastillo;
+Museo 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles;
+Museo Calle Rubén Darío alt. 500, 5101427 Valdivia, Los Ríos, Chile Memorial La Mano;
+Museo Municipal Cemetery, 5100436 Valdivia, Los Ríos, Chile Memorial por la Vida;
+Museo Arauco 380, 5110542 Valdivia, Los Ríos, Chile Corporacion Cultural Luterana;
+Teatro Chacabuco 210, 5110361 Valdivia, Los Ríos, Chile Teatro Regional Cervantes;
+Teatro Independencia 455, Valdivia, Los Ríos, Chile Lord Cochrane Municipal Theater;
+Teatro Calle Baquedano - San Luis 1157, 5090000 Valdivia, Los Ríos, Chile Centro Cultural Bailarines de los Ríos;
+Teatro Isla Teja - Los Robles 04, Valdivia, Los Ríos, Chile Corporación​ Cultural Municipal De Valdivia;
+Teatro España 203, 5110453 Valdivia, Los Ríos, Chile Ases producciones los rios;
+Galería Caupolicán 425, 5110437 Valdivia, Los Ríos, Chile Galeria Valdivia;
+Galería Arauco 729, 5090000 Valdivia, Los Ríos, Chile kylie style spa;
+Galería Chacabuco 412, 5110396 Valdivia, Los Ríos, Chile Galeria Benjamin;
+Galería Arauco 384, Valdivia, Los Ríos, Chile Galeria Santiago , Tienda The Nones Local 5;
+Galería Caupolicán 443, 5090000 Valdivia, Los Ríos, Chile Galería Cadagan;
+Galería Caupolicán 360, 5110395 Valdivia, Los Ríos, Chile Galería Alemania;
+Galería 5110542 Valdivia, Los Ríos, Chile Ciber cafe galeria santiago;
+Galería Lautaro 149, 5110654 Valdivia, Los Ríos, Chile Galeria Lautaro;
+Galería Caupolicán 532, 5110503 Valdivia, Los Ríos, Chile pumucki galeria fuad;
+Galería Pérez Rosales 986, Valdivia, Los Ríos, Chile Galeria Barrios Bajos;
+Galería Los Pelues 430, 5110523 Valdivia, Los Ríos, Chile Arte Valdivia;
+Estadio Alonso de Ercilla, Valdivia, Los Ríos, Chile Estadio Felix Gallardo;
+Café Maipú 183-199, Valdivia, Los Ríos, Chile Cafe De Luis;
+Café Bernardo O'Higgins 422, 5090000 Valdivia, Los Ríos, Chile Café Bar La Firma;
+Café Libertad 174, 5110484 Valdivia, Los Ríos, Chile Café Moro;
+Café 5110507 Valdivia, Los Ríos, Chile Café Plaza;
+Café O'Higgins 394, 5110361 Valdivia, Los Ríos, Chile Das Haus 1959;
+Café Pérez Rosales 644, Valdivia, Los Ríos, Chile Café Cosas Ricas;
+Café Pérez Rosales 580, Valdivia, Los Ríos, Chile Café Palace;
+Café Arauco 280, 5110538 Valdivia, Los Ríos, Chile Cafe Cotidiano;
+Café Camilo Henríquez 266, Valdivia, Los Ríos, Chile Café Simple;
+Café Caupolicán 465, local 232, 5110437 Valdivia, Los Ríos, Chile Cassis Valdivia;
+Café Pérez Rosales 644, Valdivia, Los Ríos, Chile Cafe Illy Valdivia;
 Café Valdivia, Los Ríos, Chile Amigos del Café
-Café Valdivia, Los Ríos, Chile ValdiGreen Coffee
-Café O'Higgins S/N, 5090000 Valdivia, Los Ríos, Chile Santo Café
-Café Valdivia, Los Ríos, Chile CARAS Cafetería Y Heladería
-Café Anfión Muñoz 360, 5110509 Valdivia, Los Ríos, Chile Cafetería Terminal de Valdivia
-Café Av. Alemania 630, 5110311 Valdivia, Los Ríos, Chile Café Arcoíris
-Café Carlos Anwandter 583, 5110239 Valdivia, Los Ríos, Chile Café Latinoamericano
-Café Arauco 561, Local 205, piso 2, 5110640 Valdivia, Los Ríos, Chile Juan Valdez Café
-Café Caupolicán 443, local 11, 5090000 Valdivia, Los Ríos, Chile Mi cafecito Valdivia
-Restaurante Mercado Municipal de Valdivia, Yungay 425 - Local 208, Local 208, 5090000 Valdivia, Los Ríos, Chile Restaurant Rincón de los Ríos
-Restaurante Anfión Muñoz 360, local 205, 5090000 Valdivia, Los Ríos, Chile Restaurante y cafetería Los Rios, Valdivia
-Restaurante Av. Alemania 290, 5110359 Valdivia, Los Ríos, Chile Rio Bar
-Restaurante Chacabuco 454, 5110396 Valdivia, Los Ríos, Chile Restaurant Los Leños
-Restaurante Libertad 28, 5110391 Valdivia, Los Ríos, Chile Restaurant Valdiviano
-Restaurante Camilo Henríquez 326, 5090000 Valdivia, Los Ríos, Chile AL YUGO RESTORANT
-Restaurante Esmeralda 682, 5110619 Valdivia, Los Ríos, Chile New Orleans
-Restaurante García Reyes 455, 5110473 Valdivia, Los Ríos, Chile Bar Restaurant tenedor libre Rancho
-Restaurante Independencia 470, 5090000 Valdivia, Los Ríos, Chile Huella Restaurante
-Restaurante García Reyes 658-686, 5110660 Valdivia, Los Ríos, Chile Restaurant Guacamole
-Restaurante Chacabuco, 5110361 Valdivia, Los Ríos, Chile El Molino
-Restaurante Av. Arturo Prat 400-498, 5110391 Valdivia, Los Ríos, Chile Restaurant Alondra
-Restaurante Arauco 425, 5900000 Valdivia, Los Ríos, Chile Restaurante El Campesino
-Restaurante Gral Lagos 1106, 5110773 Valdivia, Los Ríos, Chile Restaurant Travesia
-Restaurante Chacabuco 20, Valdivia, Los Ríos, Chile Restaurante Entrepiso
-Restaurante Oettinger 40, 5110237 Valdivia, Los Ríos, Chile JOTA Restaurant
-Restaurante Janequeo, 5110230 Valdivia, Los Ríos, Chile El Puente Nuevo.
-Restaurante Vicente Pérez Rosales 787, 5110656 Valdivia, Los Ríos, Chile La Última Frontera
-Restaurante Carlos Anwandter, 5110335 Valdivia, Los Ríos, Chile Restaurant Entre Mar y Tierra
-Restaurante Camilo Henríquez 300, 5110327 Valdivia, Los Ríos, Chile Bridges Pub-Restaurant
-Iglesia O'Higgins, 5110484 Valdivia, Los Ríos, Chile Our Lady of the Rosary Cathedral, Valdivia
-Iglesia 5110639 Valdivia, Los Ríos, Chile Iglesia Catolica San Pedro
-Iglesia Los Lingues, Valdivia, Los Ríos, Chile St. Agnes Parish
-Iglesia Bolivia, Valdivia, Los Ríos, Chile Parroquia san Pio X
-Iglesia Yerbas Buenas 181, Valdivia, Los Ríos, Chile Iglesia San Francisco de Valdivia
-Iglesia Aníbal Pinto 2175, 5111075 Valdivia, Los Ríos, Chile Parroquia Nuestra Señora de la Merced, Capilla Aníbal Pinto
-Iglesia Bueras, 5110751 Valdivia, Los Ríos, Chile Parroquia La Merced
-Iglesia Gral. Mackenna 445, Valdivia, Los Ríos, Chile Parroquia Preciosa Sangre
-Iglesia Independencia 514, 5110484 Valdivia, Los Ríos, Chile Obispado de Valdivia
-Iglesia Gral. A Montecino Caro 2950, Valdivia, Los Ríos, Chile Parroquia Santos Juan y Pedro
-Iglesia René Schneider 2795, 5090420 Valdivia, Los Ríos, Chile Parroquia Cristo Rey
-Iglesia Av. Ramón Picarte 1824, 5090006 Valdivia, Los Ríos, Chile Obispado de Valdivia
-Iglesia Valdivia, Los Ríos, Chile Our Lady of Mercy Cathedral, Babahoyo
-Iglesia Av. Clemente Holzapfel 800, 5100432 Valdivia, Los Ríos, Chile Iglesia Fuente De Vida Para Las Naciones Valdivia
-Iglesia Valdivia, Los Ríos, Chile Iglesia del Señor Jesucristo
-Iglesia Av. Pedro Aguirre Cerda 415, 5110214 Valdivia, Los Ríos, Chile Iglesia
-Iglesia Av. Balmaceda 5215, Valdivia, Los Ríos, Chile Parroquia Nuestra Señora del Carmen
-Iglesia Av. Ramón Picarte 1451, 5110738 Valdivia, Los Ríos, Chile La Iglesia de Jesucristo de los Santos de los Últimos Días
-Iglesia Av. Ramón Picarte 3368-3398, 5101345 Valdivia, Los Ríos, Chile Iglesia Trinidad
-Iglesia Ernesto Riquelme 291, 5110778 Valdivia, Los Ríos, Chile La Iglesia de Jesucristo de los Santos de los Últimos Días
-Oficina Yerbas Buenas 384-374, 5110617 Valdivia, Los Ríos, Chile Oficina
-Oficina Camilo Henríquez 131, 5110225 Valdivia, Los Ríos, Chile Oficina TNE
-Oficina Camilo Henríquez 155, 5110225 Valdivia, Los Ríos, Chile Direccion Regional los Ríos
-Oficina Arauco 371, 5110604 Valdivia, Los Ríos, Chile SISS Oficina Regional de Los Ríos
-Oficina O'Higgins 543, 5110484 Valdivia, Los Ríos, Chile Gobierno Regional de los Rios
-Oficina Caupolicán 139, 5110231 Valdivia, Los Ríos, Chile Onemi Regional Office
-Oficina San Carlos 50, 5110562 Valdivia, Los Ríos, Chile SII Oficina Valdivia
-Oficina Carlos Anwandter 400-498, 5110211 Valdivia, Los Ríos, Chile Seremi De Gobierno Los Rios
-Oficina Vicente Pérez Rosales 860, 5110694 Valdivia, Los Ríos, Chile Oficina Direccion regional Sename los rios
-Oficina Independencia 455, Valdivia, Los Ríos, Chile Municipal Bureau of Labor Intermediation
-Oficina Philippi 1053, 5110777 Valdivia, Los Ríos, Chile Propiedades SOCINVERIOS
-Oficina Pedro de Valdivia 260, 5110423 Valdivia, Los Ríos, Chile Información turística Sernatur Los Rios
-Oficina O'Higgins 543, 5110484 Valdivia, Los Ríos, Chile Intendencia Regional de Los Ríos
-Oficina Gral Lagos 1356, 5110864 Valdivia, Los Ríos, Chile MINVU VALDIVIA
-Oficina Chacabuco 700, Valdivia, Los Ríos, Chile Oficina Seremi De Salud Región De Los Rios
-Oficina Gral Lagos 1356, 5110864 Valdivia, Los Ríos, Chile Seremi
-Oficina Camilo Henríquez 155, 5110225 Valdivia, Los Ríos, Chile Junaeb
-Oficina Ecuador 2030-2098, 5100288 Valdivia, Los Ríos, Chile Gama Valdivia
-Oficina Esmeralda 5110600, 5110604 Valdivia, Los Ríos, Chile Corporacion Regional De Desarrollo Productivo de Los Ríos
-Oficina Gral Lagos 891B, 5110693 Valdivia, Los Ríos, Chile Unidad de Atencion a Victimas y Testigos Fiscalia Regional de los Rios
-Embajada T-350 4775, Valdivia, Los Ríos, Chile Consulado Honorario de Austria.
-Estación de policía 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles
-Estación de policía Valdivia, Los Ríos, Chile Terminal L11
-Estación de policía Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB
-Estación de policía Del Castillo 1060 - Niebla, Valdivia, Los Ríos, Chile Reten Niebla - Carabineros de Chile
-Estación de policía Yungay 736-782, 5110655 Valdivia, Los Ríos, Chile 1 Juzgado De Policía Local
-Estación de policía San Martín 475, Valdivia, Los Ríos, Chile Clínica Estación Mascotas
-Estación de policía Beauchef 1025, Valdivia, Los Ríos, Chile Primera Comisaría Valdivia
-Estación de policía Av. Francia 2950, Valdivia, Los Ríos, Chile Carabineros de Chile
-Estación de policía Vicente Pérez Rosales 717, 5110652 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa
-Estación de policía Valdivia, Los Ríos, Chile Estación metereológica
-Estación de policía Colombia 200, Valdivia, Los Ríos, Chile Tenencia Los Jazmines
-Estación de policía Valdivia, Los Ríos, Chile Terminal L3
-Estación de policía Valdivia, Los Ríos, Chile Terminal L1
-Estación de policía Corral, Los Ríos, Chile Estacion de Buses a la Costa
-Estación de policía 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia
-Estación de policía Valdivia, Los Ríos, Chile Terminal L9
-Estación de policía Valdivia, Los Ríos, Chile Terminal L4, L5, L20
-Estación de policía Valdivia, Los Ríos, Chile Terminal L1, L3
-Estación de policía Ruta T 350 #950, 5110853 Valdivia, Los Ríos, Chile Copec Voltex Charging Station
-Estación de policía Valdivia, Los Ríos, Chile Terminal L2
-Estación de bomberos Camilo Henríquez 307, 5110305 Valdivia, Los Ríos, Chile Quinta Compania del Cuerpo de Bomberos de Valdivia
-Estación de bomberos 558 - Los Lingues 500, Valdivia, Los Ríos, Chile Primera Compañia de Bomberos Valdivia
-Estación de bomberos Av. Pedro Aguirre Cerda S/N, 5110380 Valdivia, Los Ríos, Chile Segunda Compañía del Cuerpo de Bomberos de Valdivia
-Estación de bomberos Av. Ramón Picarte 2494, Valdivia, Los Ríos, Chile Cuerpo de Bomberos
-Estación de bomberos Av. Francia 1685, Valdivia, Los Ríos, Chile Séptima Compañía de Bomberos de Valdivia
-Estación de bomberos Av. Balmaceda 3500, 5111840 Valdivia, Los Ríos, Chile Novena Compañía del Cuerpo de Bomberos de Valdivia
-Estación de bomberos Valdivia, Los Ríos, Chile Estación metereológica
-Estación de bomberos Yungay 646, 5110568 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa
-Estación de bomberos 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles
-Estación de bomberos Valdivia, Los Ríos, Chile Terminal L11
-Estación de bomberos Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB
-Estación de bomberos Vicente Pérez Rosales 717, 5110652 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa
-Estación de bomberos Valdivia, Los Ríos, Chile estacion monitoreo
-Estación de tren 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles
-Estación de autobuses 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L11
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L9
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L3
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L1
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L1, L3
-Estación de autobuses Valdivia, Los Ríos, Chile Terminal L2
-Estación de autobuses Corral, Los Ríos, Chile Estacion de Buses a la Costa
-Aeropuerto San José de Mariquina, Mariquina, Los Ríos, Chile Aeródromo Pichoy
-Puerto 5110639 Valdivia, Los Ríos, Chile Puerto Montt
-Playa Playa Pilolcura (Roca Hueca), Valdivia, Los Ríos, Chile Playa Pilolcura (Roca Hueca)
-Playa Río Callecalle, Valdivia, Los Ríos, Chile Playa Collico
+Café Valdivia, Los Ríos, Chile ValdiGreen Coffee;
+Café O'Higgins S/N, 5090000 Valdivia, Los Ríos, Chile Santo Café;
+Café Valdivia, Los Ríos, Chile CARAS Cafetería Y Heladería;
+Café Anfión Muñoz 360, 5110509 Valdivia, Los Ríos, Chile Cafetería Terminal de Valdivia;
+Café Av. Alemania 630, 5110311 Valdivia, Los Ríos, Chile Café Arcoíris;
+Café Carlos Anwandter 583, 5110239 Valdivia, Los Ríos, Chile Café Latinoamericano;
+Café Arauco 561, Local 205, piso 2, 5110640 Valdivia, Los Ríos, Chile Juan Valdez Café;
+Café Caupolicán 443, local 11, 5090000 Valdivia, Los Ríos, Chile Mi cafecito Valdivia;
+Restaurante Mercado Municipal de Valdivia, Yungay 425 - Local 208, Local 208, 5090000 Valdivia, Los Ríos, Chile Restaurant Rincón de los Ríos;
+Restaurante Anfión Muñoz 360, local 205, 5090000 Valdivia, Los Ríos, Chile Restaurante y cafetería Los Rios, Valdivia;
+Restaurante Av. Alemania 290, 5110359 Valdivia, Los Ríos, Chile Rio Bar;
+Restaurante Chacabuco 454, 5110396 Valdivia, Los Ríos, Chile Restaurant Los Leños;
+Restaurante Libertad 28, 5110391 Valdivia, Los Ríos, Chile Restaurant Valdiviano;
+Restaurante Camilo Henríquez 326, 5090000 Valdivia, Los Ríos, Chile AL YUGO RESTORANT;
+Restaurante Esmeralda 682, 5110619 Valdivia, Los Ríos, Chile New Orleans;
+Restaurante García Reyes 455, 5110473 Valdivia, Los Ríos, Chile Bar Restaurant tenedor libre Rancho;
+Restaurante Independencia 470, 5090000 Valdivia, Los Ríos, Chile Huella Restaurante;
+Restaurante García Reyes 658-686, 5110660 Valdivia, Los Ríos, Chile Restaurant Guacamole;
+Restaurante Chacabuco, 5110361 Valdivia, Los Ríos, Chile El Molino;
+Restaurante Av. Arturo Prat 400-498, 5110391 Valdivia, Los Ríos, Chile Restaurant Alondra;
+Restaurante Arauco 425, 5900000 Valdivia, Los Ríos, Chile Restaurante El Campesino;
+Restaurante Gral Lagos 1106, 5110773 Valdivia, Los Ríos, Chile Restaurant Travesia;
+Restaurante Chacabuco 20, Valdivia, Los Ríos, Chile Restaurante Entrepiso;
+Restaurante Oettinger 40, 5110237 Valdivia, Los Ríos, Chile JOTA Restaurant;
+Restaurante Janequeo, 5110230 Valdivia, Los Ríos, Chile El Puente Nuevo.;
+Restaurante Vicente Pérez Rosales 787, 5110656 Valdivia, Los Ríos, Chile La Última Frontera;
+Restaurante Carlos Anwandter, 5110335 Valdivia, Los Ríos, Chile Restaurant Entre Mar y Tierra;
+Restaurante Camilo Henríquez 300, 5110327 Valdivia, Los Ríos, Chile Bridges Pub-Restaurant;
+Iglesia O'Higgins, 5110484 Valdivia, Los Ríos, Chile Our Lady of the Rosary Cathedral, Valdivia;
+Iglesia 5110639 Valdivia, Los Ríos, Chile Iglesia Catolica San Pedro;
+Iglesia Los Lingues, Valdivia, Los Ríos, Chile St. Agnes Parish;
+Iglesia Bolivia, Valdivia, Los Ríos, Chile Parroquia san Pio X;
+Iglesia Yerbas Buenas 181, Valdivia, Los Ríos, Chile Iglesia San Francisco de Valdivia;
+Iglesia Aníbal Pinto 2175, 5111075 Valdivia, Los Ríos, Chile Parroquia Nuestra Señora de la Merced, Capilla Aníbal Pinto;
+Iglesia Bueras, 5110751 Valdivia, Los Ríos, Chile Parroquia La Merced;
+Iglesia Gral. Mackenna 445, Valdivia, Los Ríos, Chile Parroquia Preciosa Sangre;
+Iglesia Independencia 514, 5110484 Valdivia, Los Ríos, Chile Obispado de Valdivia;
+Iglesia Gral. A Montecino Caro 2950, Valdivia, Los Ríos, Chile Parroquia Santos Juan y Pedro;
+Iglesia René Schneider 2795, 5090420 Valdivia, Los Ríos, Chile Parroquia Cristo Rey;
+Iglesia Av. Ramón Picarte 1824, 5090006 Valdivia, Los Ríos, Chile Obispado de Valdivia;
+Iglesia Valdivia, Los Ríos, Chile Our Lady of Mercy Cathedral, Babahoyo;
+Iglesia Av. Clemente Holzapfel 800, 5100432 Valdivia, Los Ríos, Chile Iglesia Fuente De Vida Para Las Naciones Valdivia;
+Iglesia Valdivia, Los Ríos, Chile Iglesia del Señor Jesucristo;
+Iglesia Av. Pedro Aguirre Cerda 415, 5110214 Valdivia, Los Ríos, Chile Iglesia;
+Iglesia Av. Balmaceda 5215, Valdivia, Los Ríos, Chile Parroquia Nuestra Señora del Carmen;
+Iglesia Av. Ramón Picarte 1451, 5110738 Valdivia, Los Ríos, Chile La Iglesia de Jesucristo de los Santos de los Últimos Días;
+Iglesia Av. Ramón Picarte 3368-3398, 5101345 Valdivia, Los Ríos, Chile Iglesia Trinidad;
+Iglesia Ernesto Riquelme 291, 5110778 Valdivia, Los Ríos, Chile La Iglesia de Jesucristo de los Santos de los Últimos Días;
+Oficina Yerbas Buenas 384-374, 5110617 Valdivia, Los Ríos, Chile Oficina;
+Oficina Camilo Henríquez 131, 5110225 Valdivia, Los Ríos, Chile Oficina TNE;
+Oficina Camilo Henríquez 155, 5110225 Valdivia, Los Ríos, Chile Direccion Regional los Ríos;
+Oficina Arauco 371, 5110604 Valdivia, Los Ríos, Chile SISS Oficina Regional de Los Ríos;
+Oficina O'Higgins 543, 5110484 Valdivia, Los Ríos, Chile Gobierno Regional de los Rios;
+Oficina Caupolicán 139, 5110231 Valdivia, Los Ríos, Chile Onemi Regional Office;
+Oficina San Carlos 50, 5110562 Valdivia, Los Ríos, Chile SII Oficina Valdivia;
+Oficina Carlos Anwandter 400-498, 5110211 Valdivia, Los Ríos, Chile Seremi De Gobierno Los Rios;
+Oficina Vicente Pérez Rosales 860, 5110694 Valdivia, Los Ríos, Chile Oficina Direccion regional Sename los rios;
+Oficina Independencia 455, Valdivia, Los Ríos, Chile Municipal Bureau of Labor Intermediation;
+Oficina Philippi 1053, 5110777 Valdivia, Los Ríos, Chile Propiedades SOCINVERIOS;
+Oficina Pedro de Valdivia 260, 5110423 Valdivia, Los Ríos, Chile Información turística Sernatur Los Rios;
+Oficina O'Higgins 543, 5110484 Valdivia, Los Ríos, Chile Intendencia Regional de Los Ríos;
+Oficina Gral Lagos 1356, 5110864 Valdivia, Los Ríos, Chile MINVU VALDIVIA;
+Oficina Chacabuco 700, Valdivia, Los Ríos, Chile Oficina Seremi De Salud Región De Los Rios;
+Oficina Gral Lagos 1356, 5110864 Valdivia, Los Ríos, Chile Seremi;
+Oficina Camilo Henríquez 155, 5110225 Valdivia, Los Ríos, Chile Junaeb;
+Oficina Ecuador 2030-2098, 5100288 Valdivia, Los Ríos, Chile Gama Valdivia;
+Oficina Esmeralda 5110600, 5110604 Valdivia, Los Ríos, Chile Corporacion Regional De Desarrollo Productivo de Los Ríos;
+Oficina Gral Lagos 891B, 5110693 Valdivia, Los Ríos, Chile Unidad de Atencion a Victimas y Testigos Fiscalia Regional de los Rios;
+Embajada T-350 4775, Valdivia, Los Ríos, Chile Consulado Honorario de Austria.;
+Estación de policía 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L11;
+Estación de policía Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB;
+Estación de policía Del Castillo 1060 - Niebla, Valdivia, Los Ríos, Chile Reten Niebla - Carabineros de Chile;
+Estación de policía Yungay 736-782, 5110655 Valdivia, Los Ríos, Chile 1 Juzgado De Policía Local;
+Estación de policía San Martín 475, Valdivia, Los Ríos, Chile Clínica Estación Mascotas;
+Estación de policía Beauchef 1025, Valdivia, Los Ríos, Chile Primera Comisaría Valdivia;
+Estación de policía Av. Francia 2950, Valdivia, Los Ríos, Chile Carabineros de Chile;
+Estación de policía Vicente Pérez Rosales 717, 5110652 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa;
+Estación de policía Valdivia, Los Ríos, Chile Estación metereológica;
+Estación de policía Colombia 200, Valdivia, Los Ríos, Chile Tenencia Los Jazmines;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L3;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L1;
+Estación de policía Corral, Los Ríos, Chile Estacion de Buses a la Costa;
+Estación de policía 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L9;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L4, L5, L20;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L1, L3;
+Estación de policía Ruta T 350 #950, 5110853 Valdivia, Los Ríos, Chile Copec Voltex Charging Station;
+Estación de policía Valdivia, Los Ríos, Chile Terminal L2;
+Estación de bomberos Camilo Henríquez 307, 5110305 Valdivia, Los Ríos, Chile Quinta Compania del Cuerpo de Bomberos de Valdivia;
+Estación de bomberos 558 - Los Lingues 500, Valdivia, Los Ríos, Chile Primera Compañia de Bomberos Valdivia;
+Estación de bomberos Av. Pedro Aguirre Cerda S/N, 5110380 Valdivia, Los Ríos, Chile Segunda Compañía del Cuerpo de Bomberos de Valdivia;
+Estación de bomberos Av. Ramón Picarte 2494, Valdivia, Los Ríos, Chile Cuerpo de Bomberos;
+Estación de bomberos Av. Francia 1685, Valdivia, Los Ríos, Chile Séptima Compañía de Bomberos de Valdivia;
+Estación de bomberos Av. Balmaceda 3500, 5111840 Valdivia, Los Ríos, Chile Novena Compañía del Cuerpo de Bomberos de Valdivia;
+Estación de bomberos Valdivia, Los Ríos, Chile Estación metereológica;
+Estación de bomberos Yungay 646, 5110568 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa;
+Estación de bomberos 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles;
+Estación de bomberos Valdivia, Los Ríos, Chile Terminal L11;
+Estación de bomberos Pérez Rosales 745, 5110652 Valdivia, Los Ríos, Chile ESTACIÓN CLUB;
+Estación de bomberos Vicente Pérez Rosales 717, 5110652 Valdivia, Los Ríos, Chile Punto de Carga de Vehículos Eléctricos Saesa;
+Estación de bomberos Valdivia, Los Ríos, Chile estacion monitoreo;
+Estación de tren 5111841 Valdivia, Los Ríos, Chile Estación de Ferrocarriles;
+Estación de autobuses 5110509 Valdivia, Los Ríos, Chile Terminal de Buses Valdivia;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L11;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L9;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L3;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L1;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L1, L3;
+Estación de autobuses Valdivia, Los Ríos, Chile Terminal L2;
+Estación de autobuses Corral, Los Ríos, Chile Estacion de Buses a la Costa;
+Aeropuerto San José de Mariquina, Mariquina, Los Ríos, Chile Aeródromo Pichoy;
+Puerto 5110639 Valdivia, Los Ríos, Chile Puerto Montt;
+Playa Playa Pilolcura (Roca Hueca), Valdivia, Los Ríos, Chile Playa Pilolcura (Roca Hueca);
+Playa Río Callecalle, Valdivia, Los Ríos, Chile Playa Collico;
 Playa Niebla, Los Ríos, Chile Niebla
-Playa 5PFJ+W2, Valdivia, Los Ríos, Chile Playa y bosque rio cruces
-Playa T-352, Valdivia, Los Ríos, Chile Playa Rosada
-Playa T-352 195, Valdivia, Los Ríos, Chile Playa Los Molinos
+Playa 5PFJ+W2, Valdivia, Los Ríos, Chile Playa y bosque rio cruces;
+Playa T-352, Valdivia, Los Ríos, Chile Playa Rosada;
+Playa T-352 195, Valdivia, Los Ríos, Chile Playa Los Molinos;
 Playa Valdivia, Los Ríos, Chile Playa La Misión
-Playa T-352, Valdivia, Los Ríos, Chile Playa San Ignacio
-Playa Niebla, Valdivia, Los Ríos, Chile Playa Grande de Niebla
-Playa Valdivia, Los Ríos, Chile Playa Curiñanco.
-Playa T-352 195, Niebla, Valdivia, Los Ríos, Chile Lovers Beach
-Playa final de calle Antonio Ducci, Niebla, Valdivia, Los Ríos, Chile Playa Chica, Niebla
-Playa Playa Rosada, 5090000 Valdivia, Los Ríos, Chile Cabaña Playa Rosada
-Playa Playa Chaihuin, Corral, Los Ríos, Chile Playa Chaihuin
-Playa Playa Pelluco, San José de la Mariquina, Mariquina, Los Ríos, Chile Playa Pelluco
-Playa Playa Los Molinos, 5090000 Valdivia, Los Ríos, Chile Playa Stereo
+Playa T-352, Valdivia, Los Ríos, Chile Playa San Ignacio;
+Playa Niebla, Valdivia, Los Ríos, Chile Playa Grande de Niebla;
+Playa Valdivia, Los Ríos, Chile Playa Curiñanco.;
+Playa T-352 195, Niebla, Valdivia, Los Ríos, Chile Lovers Beach;
+Playa final de calle Antonio Ducci, Niebla, Valdivia, Los Ríos, Chile Playa Chica, Niebla;
+Playa Playa Rosada, 5090000 Valdivia, Los Ríos, Chile Cabaña Playa Rosada;
+Playa Playa Chaihuin, Corral, Los Ríos, Chile Playa Chaihuin;
+Playa Playa Pelluco, San José de la Mariquina, Mariquina, Los Ríos, Chile Playa Pelluco;
+Playa Playa Los Molinos, 5090000 Valdivia, Los Ríos, Chile Playa Stereo;
 Playa Valdivia, Los Ríos, Chile Valdivia
-Playa 5100321 Valdivia, Los Ríos, Chile "Playa Grande De Niebla" Cabins
-Playa Playa Pichicullin, San José de la Mariquina, Mariquina, Los Ríos, Chile Playa Pichicullin
-Montaña 5090000 Valdivia, Los Ríos, Chile Helados la Montaña
-Montaña sector las minas selva, 5090000 Valdivia, Los Ríos, Chile Ruka antu
-Montaña 5090000 Valdivia, Los Ríos, Chile Dulce montaña
-Montaña Las Minas s/n, 5090000 Valdivia, Los Ríos, Chile Ecocabaña Melí
-Montaña Cerro Oncol, Valdivia, Los Ríos, Chile Cerro Oncol
-Montaña Veintiuno de Mayo 125, Valdivia, Los Ríos, Chile Soto Montana Sara Katixsa
-Montaña Independencia 491, Valdivia, Los Ríos, Chile Volkanica Outdoors Valdivia
-Montaña Cerro de Valdivia, Corral, Los Ríos, Chile Cerro de Valdivia
-Montaña Pérez Rosales 952, Valdivia, Los Ríos, Chile Juan Alberto Velasquez Montana
-Montaña T-301 17, Valdivia, Los Ríos, Chile Cabañas T301
-Montaña Los Laureles 075, piso 2, 5090000 Valdivia, Los Ríos, Chile Alerce Outdoor
-Montaña 6PMC+XX5, 5090000 Valdivia, Los Ríos, Chile Refugio del Santuario
-Montaña ruta T-340, sector Chabelita, parcela 17, camino a, Punucapa, Valdivia, Los Ríos, Chile Rústico Punucapa
-Río Valdivia River, Los Ríos, Chile Valdivia River
-Lago Los Lagos, Valdivia, Los Ríos, Chile Los Lagos
-Bosque Av. Simpson 301, Valdivia, Los Ríos, Chile Parque Urbano El Bosque
-Bosque 5PFJ+W2, Valdivia, Los Ríos, Chile Playa y bosque rio cruces
+Playa 5100321 Valdivia, Los Ríos, Chile "Playa Grande De Niebla" Cabins;
+Playa Playa Pichicullin, San José de la Mariquina, Mariquina, Los Ríos, Chile Playa Pichicullin;
+Montaña 5090000 Valdivia, Los Ríos, Chile Helados la Montaña;
+Montaña sector las minas selva, 5090000 Valdivia, Los Ríos, Chile Ruka antu;
+Montaña 5090000 Valdivia, Los Ríos, Chile Dulce montaña;
+Montaña Las Minas s/n, 5090000 Valdivia, Los Ríos, Chile Ecocabaña Melí;
+Montaña Cerro Oncol, Valdivia, Los Ríos, Chile Cerro Oncol;
+Montaña Veintiuno de Mayo 125, Valdivia, Los Ríos, Chile Soto Montana Sara Katixsa;
+Montaña Independencia 491, Valdivia, Los Ríos, Chile Volkanica Outdoors Valdivia;
+Montaña Cerro de Valdivia, Corral, Los Ríos, Chile Cerro de Valdivia;
+Montaña Pérez Rosales 952, Valdivia, Los Ríos, Chile Juan Alberto Velasquez Montana;
+Montaña T-301 17, Valdivia, Los Ríos, Chile Cabañas T301;
+Montaña Los Laureles 075, piso 2, 5090000 Valdivia, Los Ríos, Chile Alerce Outdoor;
+Montaña 6PMC+XX5, 5090000 Valdivia, Los Ríos, Chile Refugio del Santuario;
+Montaña ruta T-340, sector Chabelita, parcela 17, camino a, Punucapa, Valdivia, Los Ríos, Chile Rústico Punucapa;
+Río Valdivia River, Los Ríos, Chile Valdivia River;
+Lago Los Lagos, Valdivia, Los Ríos, Chile Los Lagos;
+Bosque Av. Simpson 301, Valdivia, Los Ríos, Chile Parque Urbano El Bosque;
+Bosque 5PFJ+W2, Valdivia, Los Ríos, Chile Playa y bosque rio cruces;
 Bosque Valdivia, Los Ríos, Chile Bosque Humedal
-Bosque Valdivia, Los Ríos, Chile Bosque Nativo de Valdivia Park
-Bosque Victoria 1248, Valdivia, Los Ríos, Chile Bosque LLuvia
-Bosque Av. Simpson 509, Villa El Bosque, 5100406 Valdivia, Los Ríos, Chile Bosque Valdiviano Apartment
-Bosque Rua T S/N Sector Vuelta la Culebra - T-505, Valdivia, Los Ríos, Chile Complejo Turistico Senderos del Bosque
-Bosque Av España - Sevilla 280, 5090000 Valdivia, Los Ríos, Chile Maderas Bosque Verde Valdivia
-Bosque Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque
-Bosque Pino Huacho 1, Valdivia, Los Ríos, Chile Cabañas Río y Bosque
-Bosque Vicente Pérez Rosales 787 C, 5110652 Valdivia, Los Ríos, Chile Bosque primario Valdiviano Tours
-Bosque Cam. Cta. de Soto, Valdivia, Los Ríos, Chile Casa Bosque de Copihues
-Bosque Valdivia, Los Ríos, Chile Bosque humedal Angachilla
-Bosque 5090000 Valdivia, Los Ríos, Chile Cabaña con tinaja en bosque Valdiviano
-Bosque Carampangue 190, 5110260 Valdivia, Los Ríos, Chile Tienda del Bosque
-Bosque Las Iris 410, Valdivia, Los Ríos, Chile Servicios Forestales Agricolas Y Transportes El Bosque Limitada
-Bosque Fresia 290, 5110230 Valdivia, Los Ríos, Chile Hostel Bosque Nativo
-Bosque Quillahue 2226, 5090788 Valdivia, Los Ríos, Chile Cabañas EL Bosque
-Bosque Acceso norte - Puente Sta. Elvira, Valdivia, Los Ríos, Chile Vivero Bosques del Sur (UACh)
-Bosque circunvalacion 2302, 5900000 Valdivia, Los Ríos, Chile libreria el bosque
-Acuario Mall Plaza de los Ríos - Aníbal Pinto 1646B, nivel -1, Valdivia, Los Ríos, Chile Mascotería EL ACUARIO (mascotas, peces)
-Acuario nivel -1, Arauco 561, Mall Plaza de los Ríos - local 12, 5090000 Valdivia, Los Ríos, Chile El Acuario Sucursal Mall
-Acuario 5090000 Valdivia, 6090000 Valdivia, Los Ríos, Chile Veterinaria El Acuario
-Acuario T-352 3650, Valdivia, Los Ríos, Chile Restaurant Acuario
-Acuario Lautaro 175 - 3º Piso, oficina 6, sección B., 5110654 Valdivia, Los Ríos, Chile Acuario Pro E.I.R.L.
-Mirador Gral Lagos, 5110853 Valdivia, Los Ríos, Chile Condominio Mirador Rio Valdivia
-Mirador Av. Arturo Prat 1300, Valdivia, Los Ríos, Chile Mirador del Remo
-Mirador Unnamed Road, Valdivia, Los Ríos, Chile Mirador Fundo Teja Norte
-Mirador Los Lingues 1451, Valdivia, Los Ríos, Chile Mirador Río Cruces
-Mirador Valdivia, Los Ríos, Chile Mirador Punta de Rieles
-Mirador Torobayo 2575, 5111176 Valdivia, Los Ríos, Chile Cabañas Mirador al Río Valdivia
-Mirador Km 34 - Ruta 202, Valdivia, Los Ríos, Chile Mirador Letras "Valdivia" Acceso Norte
-Mirador Valdivia, Los Ríos, Chile Comite de Adelante Comunidad Mirador Rio Valdivia
-Mirador T-35 7, Valdivia, Los Ríos, Chile Mirador Valdivia - Huellelhue
-Mirador Av. Arturo Prat 399-301, 5110361 Valdivia, Los Ríos, Chile viva la costa
-Mirador Guacolda 620, 5090000 Valdivia, Los Ríos, Chile Hostal El Mirador
-Mirador Av. Balmaceda 6775, 5090000 Valdivia, Los Ríos, Chile Villa Mirador del Calle Calle
-Mirador 6Q4V+RM, Valdivia, Los Ríos, Chile Muelle Mirador Santa Elvira
-Mirador 5QHX+XH, Valdivia, Los Ríos, Chile Mirador kunstmann
-Mirador Pintor Rodulfo Petersen 1132, 5111431 Valdivia, Los Ríos, Chile Mirador del Cruces Hostel
-Mirador T-350, Valdivia, Los Ríos, Chile Mirador Vapor Canelos
-Mirador Pintor Rodulfo Petersen 999, 901, Valdivia, Los Ríos, Chile Condominio Mirador del Santuario
-Mirador T-352, Niebla, Valdivia, Los Ríos, Chile Mirador Niebla
-Mirador I - Ruta - T-350, Valdivia, Los Ríos, Chile Segundo mirador
-Mirador 4MR7+V7, Valdivia, Los Ríos, Chile Tercer mirador
-Monumento Av. Arturo Prat 430, Valdivia, Los Ríos, Chile Monumento a los Navegantes
-Monumento Av. Ramón Picarte 1236-1298, Valdivia, Los Ríos, Chile Torreón del Barro
-Monumento Gral Lagos 801, Valdivia, Los Ríos, Chile Torreon de los Canelos
-Monumento Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele
-Monumento Av. Alemania 880, 5110424 Valdivia, Los Ríos, Chile Familia Salesiana
-Monumento Río Callecalle, Valdivia, Los Ríos, Chile Puente Pedro de Valdivia
-Monumento Av. Arturo Prat 2-20, Valdivia, Los Ríos, Chile museo naval submarino O' Brien
-Monumento Calle Rubén Darío alt. 500, 5101427 Valdivia, Los Ríos, Chile Memorial La Mano
-Torre Gral Lagos 801, Valdivia, Los Ríos, Chile Torreon de los Canelos
-Torre Av. Ramón Picarte 1236-1298, Valdivia, Los Ríos, Chile Torreón del Barro
-Torre Ada - Ecuador 2300, 5090000 Valdivia, Los Ríos, Chile La Torre del León
-Torre Beneficencia 390, 5100000 Valdivia, Los Ríos, Chile Cabañas Torres De Santis
-Torre Camilo Henríquez 240, 5110268 Valdivia, Los Ríos, Chile Silva Y Torres Ltda
-Torre Av. Alemania 348, of 33, 5110328 Valdivia, Los Ríos, Chile Abogado Cristóbal Torres Arriagada
-Torre Vicente - Pérez Rosales 640, oficina 21, Valdivia, Los Ríos, Chile Torres Consultores Ltda
+Bosque Valdivia, Los Ríos, Chile Bosque Nativo de Valdivia Park;
+Bosque Victoria 1248, Valdivia, Los Ríos, Chile Bosque LLuvia;
+Bosque Av. Simpson 509, Villa El Bosque, 5100406 Valdivia, Los Ríos, Chile Bosque Valdiviano Apartment;
+Bosque Rua T S/N Sector Vuelta la Culebra - T-505, Valdivia, Los Ríos, Chile Complejo Turistico Senderos del Bosque;
+Bosque Av España - Sevilla 280, 5090000 Valdivia, Los Ríos, Chile Maderas Bosque Verde Valdivia;
+Bosque Av. Cv Sur 2365, 5090000 Valdivia, Los Ríos, Chile Colegio El Bosque;
+Bosque Pino Huacho 1, Valdivia, Los Ríos, Chile Cabañas Río y Bosque;
+Bosque Vicente Pérez Rosales 787 C, 5110652 Valdivia, Los Ríos, Chile Bosque primario Valdiviano Tours;
+Bosque Cam. Cta. de Soto, Valdivia, Los Ríos, Chile Casa Bosque de Copihues;
+Bosque Valdivia, Los Ríos, Chile Bosque humedal Angachilla;
+Bosque 5090000 Valdivia, Los Ríos, Chile Cabaña con tinaja en bosque Valdiviano;
+Bosque Carampangue 190, 5110260 Valdivia, Los Ríos, Chile Tienda del Bosque;
+Bosque Las Iris 410, Valdivia, Los Ríos, Chile Servicios Forestales Agricolas Y Transportes El Bosque Limitada;
+Bosque Fresia 290, 5110230 Valdivia, Los Ríos, Chile Hostel Bosque Nativo;
+Bosque Quillahue 2226, 5090788 Valdivia, Los Ríos, Chile Cabañas EL Bosque;
+Bosque Acceso norte - Puente Sta. Elvira, Valdivia, Los Ríos, Chile Vivero Bosques del Sur (UACh);
+Bosque circunvalacion 2302, 5900000 Valdivia, Los Ríos, Chile libreria el bosque;
+Acuario Mall Plaza de los Ríos - Aníbal Pinto 1646B, nivel -1, Valdivia, Los Ríos, Chile Mascotería EL ACUARIO (mascotas, peces);
+Acuario nivel -1, Arauco 561, Mall Plaza de los Ríos - local 12, 5090000 Valdivia, Los Ríos, Chile El Acuario Sucursal Mall;
+Acuario 5090000 Valdivia, 6090000 Valdivia, Los Ríos, Chile Veterinaria El Acuario;
+Acuario T-352 3650, Valdivia, Los Ríos, Chile Restaurant Acuario;
+Acuario Lautaro 175 - 3º Piso, oficina 6, sección B., 5110654 Valdivia, Los Ríos, Chile Acuario Pro E.I.R.L.;
+Mirador Gral Lagos, 5110853 Valdivia, Los Ríos, Chile Condominio Mirador Rio Valdivia;
+Mirador Av. Arturo Prat 1300, Valdivia, Los Ríos, Chile Mirador del Remo;
+Mirador Unnamed Road, Valdivia, Los Ríos, Chile Mirador Fundo Teja Norte;
+Mirador Los Lingues 1451, Valdivia, Los Ríos, Chile Mirador Río Cruces;
+Mirador Valdivia, Los Ríos, Chile Mirador Punta de Rieles;
+Mirador Torobayo 2575, 5111176 Valdivia, Los Ríos, Chile Cabañas Mirador al Río Valdivia;
+Mirador Km 34 - Ruta 202, Valdivia, Los Ríos, Chile Mirador Letras "Valdivia" Acceso Norte;
+Mirador Valdivia, Los Ríos, Chile Comite de Adelante Comunidad Mirador Rio Valdivia;
+Mirador T-35 7, Valdivia, Los Ríos, Chile Mirador Valdivia - Huellelhue;
+Mirador Av. Arturo Prat 399-301, 5110361 Valdivia, Los Ríos, Chile viva la costa;
+Mirador Guacolda 620, 5090000 Valdivia, Los Ríos, Chile Hostal El Mirador;
+Mirador Av. Balmaceda 6775, 5090000 Valdivia, Los Ríos, Chile Villa Mirador del Calle Calle;
+Mirador 6Q4V+RM, Valdivia, Los Ríos, Chile Muelle Mirador Santa Elvira;
+Mirador 5QHX+XH, Valdivia, Los Ríos, Chile Mirador kunstmann;
+Mirador Pintor Rodulfo Petersen 1132, 5111431 Valdivia, Los Ríos, Chile Mirador del Cruces Hostel;
+Mirador T-350, Valdivia, Los Ríos, Chile Mirador Vapor Canelos;
+Mirador Pintor Rodulfo Petersen 999, 901, Valdivia, Los Ríos, Chile Condominio Mirador del Santuario;
+Mirador T-352, Niebla, Valdivia, Los Ríos, Chile Mirador Niebla;
+Mirador I - Ruta - T-350, Valdivia, Los Ríos, Chile Segundo mirador;
+Mirador 4MR7+V7, Valdivia, Los Ríos, Chile Tercer mirador;
+Monumento Av. Arturo Prat 430, Valdivia, Los Ríos, Chile Monumento a los Navegantes;
+Monumento Av. Ramón Picarte 1236-1298, Valdivia, Los Ríos, Chile Torreón del Barro;
+Monumento Gral Lagos 801, Valdivia, Los Ríos, Chile Torreon de los Canelos;
+Monumento Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele;
+Monumento Av. Alemania 880, 5110424 Valdivia, Los Ríos, Chile Familia Salesiana;
+Monumento Río Callecalle, Valdivia, Los Ríos, Chile Puente Pedro de Valdivia;
+Monumento Av. Arturo Prat 2-20, Valdivia, Los Ríos, Chile museo naval submarino O' Brien;
+Monumento Calle Rubén Darío alt. 500, 5101427 Valdivia, Los Ríos, Chile Memorial La Mano;
+Torre Gral Lagos 801, Valdivia, Los Ríos, Chile Torreon de los Canelos;
+Torre Av. Ramón Picarte 1236-1298, Valdivia, Los Ríos, Chile Torreón del Barro;
+Torre Ada - Ecuador 2300, 5090000 Valdivia, Los Ríos, Chile La Torre del León;
+Torre Beneficencia 390, 5100000 Valdivia, Los Ríos, Chile Cabañas Torres De Santis;
+Torre Camilo Henríquez 240, 5110268 Valdivia, Los Ríos, Chile Silva Y Torres Ltda;
+Torre Av. Alemania 348, of 33, 5110328 Valdivia, Los Ríos, Chile Abogado Cristóbal Torres Arriagada;
+Torre Vicente - Pérez Rosales 640, oficina 21, Valdivia, Los Ríos, Chile Torres Consultores Ltda;
 Torre Chile Torre Ballenera
-Torre Emilio Cok N°140, 5090000 Valdivia, Los Ríos, Chile Ferreteria Torres spa
-Torre Chacabuco 308, 5090000 Valdivia, Los Ríos, Chile Lorena Alejandra Rojas Torres Centro Odontologico
-Torre Ecuador 1791, 5100247 Valdivia, Los Ríos, Chile Los Torreones Eventos
-Torre Domeyko 143, 5111021 Valdivia, Los Ríos, Chile Mena Torres German
-Torre Carlos Anwandter 551, 5110229 Valdivia, Los Ríos, Chile Hugo Fabian Alvarez Torres Servicios Forestales Eirl
-Torre Fernando de Aragón 117, 5091716 Valdivia, Los Ríos, Chile Lorena Alejandra Rojas Torres Centro Odontologico Eirl
-Torre CX29+28, Erilda, Mariquina, Los Ríos, Chile Torres De Santis
-Torre Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele
-Torre Valdivia River, Los Ríos, Chile Valdivia River
-Torre Pje. Veinte 3760, Valdivia, Los Ríos, Chile Patricia del Carmen Torres Miranda
-Torre Chacabuco 278, 5110361 Valdivia, Los Ríos, Chile Pedro Torres Propiedades
-Faro Valdivia, Los Ríos, Chile Faro del Fuerte de Niebla
-Faro Vicente Pérez Rosales 1668, 5111052 Valdivia, Los Ríos, Chile Cabañas "El Faro"
-Camino 5R96+CP, Valdivia, Los Ríos, Chile Inicio camino a casa
-Camino Coronel Santiago Bueras 884, Valdivia, Los Ríos, Chile Camino El Arenal s/n
-Camino Carampangue 309, 5110327 Valdivia, Los Ríos, Chile Senda de los Rios
-Camino General Lagos, 5110391 Valdivia, Los Ríos, Chile Feria Artesanal Camino de Luna
-Camino Seis 6015, 5100017 Valdivia, Los Ríos, Chile Collico, camino de luna
-Camino García Reyes 270, 5110337 Valdivia, Los Ríos, Chile Agricola Ganadera Y Forestal Camino Viejo
-Camino Los Maitenes 2, Valdivia, Los Ríos, Chile Servicios Podales Jorge Camino E.I.R.L.
-Camino 5110639 Valdivia, Los Ríos, Chile Restaurant Camino de Luna
-Camino Clemente Escobar 963, 5110757 Valdivia, Los Ríos, Chile cabañas la ruta de valdivia
-Camino Valdivia, Los Ríos, Chile Restaurante Flotante Camino de Luna
-Camino Av. Arturo Prat S/N, 5090000 Valdivia, Los Ríos, Chile Restaurant Camino de Luna
-Camino camino angachilla km 8,5, Valdivia, Los Ríos, Chile Rio Vivo
-Sendero 8MJ3+97, Pillin, Valdivia, Los Ríos, Chile Sendero Pillin
-Sendero T-503, Valdivia, Los Ríos, Chile Sendero Lomas Del Sol
-Sendero Los Lagos, Valdivia, Los Ríos, Chile Villa Sendero de los rios
-Sendero Rua T S/N Sector Vuelta la Culebra - T-505, Valdivia, Los Ríos, Chile Complejo Turistico Senderos del Bosque
-Sendero Caleta Chaihuín, Corral, Los Ríos, Chile Reserva valdiviana sendero los.colmillos
-Sendero 5R96+CP, Valdivia, Los Ríos, Chile Inicio camino a casa
-Sendero 5X4C+P8, Valdivia, Los Ríos, Chile Altos de Arique, Cerro Molino
-Sendero T-39, Panguipulli, Los Ríos, Chile Sendero Entre Robles viejos
-Sendero Camping Vista Hermosa - T-352 205, Valdivia, Los Ríos, Chile Mirador los molinos
-Sendero Panguipulli, Los Ríos, Chile Sendero de los espíritus
-Sendero Panguipulli, Los Ríos, Chile Sendero Mirador
-Sendero Valdivia, Los Ríos, Chile Bosque humedal Angachilla
-Sendero Panguipulli, Los Ríos, Chile Sendero Piedras Magneticas
-Sendero 5QHX+XH, Valdivia, Los Ríos, Chile Mirador kunstmann
-Sendero Cerro Buenaventura, Valdivia, Los Ríos, Chile Cerro Buenaventura
-Sendero Coñaripe alto camino los cajones, Conaripe Alto, Panguipulli, Los Ríos, Chile Inicio sendero diuco
+Torre Emilio Cok N°140, 5090000 Valdivia, Los Ríos, Chile Ferreteria Torres spa;
+Torre Chacabuco 308, 5090000 Valdivia, Los Ríos, Chile Lorena Alejandra Rojas Torres Centro Odontologico;
+Torre Ecuador 1791, 5100247 Valdivia, Los Ríos, Chile Los Torreones Eventos;
+Torre Domeyko 143, 5111021 Valdivia, Los Ríos, Chile Mena Torres German;
+Torre Carlos Anwandter 551, 5110229 Valdivia, Los Ríos, Chile Hugo Fabian Alvarez Torres Servicios Forestales Eirl;
+Torre Fernando de Aragón 117, 5091716 Valdivia, Los Ríos, Chile Lorena Alejandra Rojas Torres Centro Odontologico Eirl;
+Torre CX29+28, Erilda, Mariquina, Los Ríos, Chile Torres De Santis;
+Torre Los Laureles S/N, Valdivia, Los Ríos, Chile Museo Histórico y Antropológico Maurice van de Maele;
+Torre Valdivia River, Los Ríos, Chile Valdivia River;
+Torre Pje. Veinte 3760, Valdivia, Los Ríos, Chile Patricia del Carmen Torres Miranda;
+Torre Chacabuco 278, 5110361 Valdivia, Los Ríos, Chile Pedro Torres Propiedades;
+Faro Valdivia, Los Ríos, Chile Faro del Fuerte de Niebla;
+Faro Vicente Pérez Rosales 1668, 5111052 Valdivia, Los Ríos, Chile Cabañas "El Faro";
+Camino 5R96+CP, Valdivia, Los Ríos, Chile Inicio camino a casa;
+Camino Coronel Santiago Bueras 884, Valdivia, Los Ríos, Chile Camino El Arenal s/n;
+Camino Carampangue 309, 5110327 Valdivia, Los Ríos, Chile Senda de los Rios;
+Camino General Lagos, 5110391 Valdivia, Los Ríos, Chile Feria Artesanal Camino de Luna;
+Camino Seis 6015, 5100017 Valdivia, Los Ríos, Chile Collico, camino de luna;
+Camino García Reyes 270, 5110337 Valdivia, Los Ríos, Chile Agricola Ganadera Y Forestal Camino Viejo;
+Camino Los Maitenes 2, Valdivia, Los Ríos, Chile Servicios Podales Jorge Camino E.I.R.L.;
+Camino 5110639 Valdivia, Los Ríos, Chile Restaurant Camino de Luna;
+Camino Clemente Escobar 963, 5110757 Valdivia, Los Ríos, Chile cabañas la ruta de valdivia;
+Camino Valdivia, Los Ríos, Chile Restaurante Flotante Camino de Luna;
+Camino Av. Arturo Prat S/N, 5090000 Valdivia, Los Ríos, Chile Restaurant Camino de Luna;
+Camino camino angachilla km 8,5, Valdivia, Los Ríos, Chile Rio Vivo;
+Sendero 8MJ3+97, Pillin, Valdivia, Los Ríos, Chile Sendero Pillin;
+Sendero T-503, Valdivia, Los Ríos, Chile Sendero Lomas Del Sol;
+Sendero Los Lagos, Valdivia, Los Ríos, Chile Villa Sendero de los rios;
+Sendero Rua T S/N Sector Vuelta la Culebra - T-505, Valdivia, Los Ríos, Chile Complejo Turistico Senderos del Bosque;
+Sendero Caleta Chaihuín, Corral, Los Ríos, Chile Reserva valdiviana sendero los.colmillos;
+Sendero 5R96+CP, Valdivia, Los Ríos, Chile Inicio camino a casa;
+Sendero 5X4C+P8, Valdivia, Los Ríos, Chile Altos de Arique, Cerro Molino;
+Sendero T-39, Panguipulli, Los Ríos, Chile Sendero Entre Robles viejos;
+Sendero Camping Vista Hermosa - T-352 205, Valdivia, Los Ríos, Chile Mirador los molinos;
+Sendero Panguipulli, Los Ríos, Chile Sendero de los espíritus;
+Sendero Panguipulli, Los Ríos, Chile Sendero Mirador;
+Sendero Valdivia, Los Ríos, Chile Bosque humedal Angachilla;
+Sendero Panguipulli, Los Ríos, Chile Sendero Piedras Magneticas;
+Sendero 5QHX+XH, Valdivia, Los Ríos, Chile Mirador kunstmann;
+Sendero Cerro Buenaventura, Valdivia, Los Ríos, Chile Cerro Buenaventura;
+Sendero Coñaripe alto camino los cajones, Conaripe Alto, Panguipulli, Los Ríos, Chile Inicio sendero diuco;

@@ -30,7 +30,7 @@ def query(texto: str, api_key):
     headers = {
         'Content-Type': 'application/json',
         'X-Goog-Api-Key': api_key,
-        'X-Goog-FieldMask': 'places.displayName,places.formattedAddress,places.priceLevel'
+        'X-Goog-FieldMask': 'places.displayName,places.formattedAddress,places.priceLevel',
     }
     response = requests.post(url, json=data, headers=headers)
     return response
